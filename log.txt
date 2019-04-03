@@ -1,0 +1,7 @@
+commit 4a9af448e0bad2e928de43dcb0775601ca26d8a2 (HEAD -> logging, 
+master)
+Author: Iva Pecevska <ivapecevska8@gmail.com>
+Date:   Wed Apr 3 23:23:09 2019 +0200
+
+    Initial commit
+
